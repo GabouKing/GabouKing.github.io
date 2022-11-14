@@ -3,10 +3,10 @@ Olá sou Gabriel Ribeiro, tenho 22 anos de idade, sou nascido e criado em São P
 
 Aqui temos algumas técnologias que atuo diariamente:
 
--C#
--AngularJS
--JavaScript
--TypeScript
--NodeJS
--AWS
--GitHub
+- C#
+- AngularJS
+- JavaScript
+- TypeScript
+- NodeJS
+- AWS
+- GitHub
